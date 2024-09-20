@@ -1,0 +1,6 @@
+D:\Root IT Task\Question _Set1\Question _Set1\bin\Debug\Question _Set1.exe.config
+D:\Root IT Task\Question _Set1\Question _Set1\bin\Debug\Question _Set1.exe
+D:\Root IT Task\Question _Set1\Question _Set1\bin\Debug\Question _Set1.pdb
+D:\Root IT Task\Question _Set1\Question _Set1\obj\Debug\Question _Set1.csprojResolveAssemblyReference.cache
+D:\Root IT Task\Question _Set1\Question _Set1\obj\Debug\Question _Set1.exe
+D:\Root IT Task\Question _Set1\Question _Set1\obj\Debug\Question _Set1.pdb

@@ -1,0 +1,5 @@
+D:\Root IT Task\Quesion1\Questionset1\bin\Debug\Questionset1.dll
+D:\Root IT Task\Quesion1\Questionset1\bin\Debug\Questionset1.pdb
+D:\Root IT Task\Quesion1\Questionset1\obj\Debug\Questionset1.dll
+D:\Root IT Task\Quesion1\Questionset1\obj\Debug\Questionset1.pdb
+D:\Root IT Task\Quesion1\Questionset1\obj\Debug\Questionset1.csprojResolveAssemblyReference.cache
